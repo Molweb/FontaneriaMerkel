@@ -329,7 +329,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 .footer-end-line{
 	height: 25px;
-	background-color: #433b88;
+	background-color: #f9851e;
 	width: 100%;
 	margin: 0;
 	padding: 0;
@@ -575,9 +575,9 @@ ul.social-list li a:hover, ul.social-list li a:focus{
     display: table;
     width: 100%;
     height: 100%;
-    background-image: -webkit-linear-gradient(35deg, rgb(232,88,137) 0%, rgb(232,98,123) 32%, rgb(232,108,108) 100%);
-    background-image: -o-linear-gradient(35deg, rgb(232,88,137) 0%, rgb(232,98,123) 32%, rgb(232,108,108) 100%);
-    background-image: linear-gradient(125deg, rgb(232,88,137) 0%, rgb(232,98,123) 32%, rgb(232,108,108) 100%);
+     background-image: -moz-linear-gradient( 135deg, rgb(253,180,24) 0%, rgb(204,149,30) 35%, rgb(250,204,18) 100%);
+  background-image: -webkit-linear-gradient( 135deg, rgb(253,180,24) 0%, rgb(204,149,30) 35%, rgb(250,204,18) 100%);
+  background-image: -ms-linear-gradient( 135deg, rgb(253,180,24) 0%, rgb(204,149,30) 35%, rgb(250,204,18) 100%);
     color: #fff;
 }
 .scroll-top-icon-container i{
@@ -631,9 +631,9 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 		padding: 2rem;
 	}
 	.navbar{
-	    background-image: -webkit-linear-gradient(305deg, rgb(232,88,137) 0%, rgb(232,98,123) 32%, rgb(232,108,108) 100%);
-	    background-image: -o-linear-gradient(305deg, rgb(232,88,137) 0%, rgb(232,98,123) 32%, rgb(232,108,108) 100%);
-	    background-image: linear-gradient(35deg, rgb(232,88,137) 0%, rgb(232,98,123) 32%, rgb(232,108,108) 100%);
+	    background-image: -moz-linear-gradient( 135deg, rgb(253,180,24) 0%, rgb(204,149,30) 35%, rgb(250,204,18) 100%);
+  background-image: -webkit-linear-gradient( 135deg, rgb(253,180,24) 0%, rgb(204,149,30) 35%, rgb(250,204,18) 100%);
+  background-image: -ms-linear-gradient( 135deg, rgb(253,180,24) 0%, rgb(204,149,30) 35%, rgb(250,204,18) 100%);
 	}
 	.navbar-divider{
 		display: none;
